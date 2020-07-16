@@ -1,0 +1,18 @@
+.help-block {
+    color: #dc3545;
+}
+img.thumbnail-color {
+    width: 40px;
+    object-fit: cover;
+    object-position: center;
+    height: 40px;
+}
+span.subcategory {
+    padding-left: 20px;
+}
+.img-color-option {
+    width: 15px;
+    margin-top: -3px;
+    border-radius: 3px;
+    margin-right: 5px;
+}
